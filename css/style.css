@@ -1,0 +1,45 @@
+.alert_wrapper {
+	width: 50%;
+	margin: 0 auto;
+}
+.myalert-warning {
+    color: #ffffff;
+    background-color: #334e3f;
+    border-color: #334e3f;
+}
+.acc_wrapper {
+	width: 50%;
+	margin: 0 auto;
+}
+.flush_h1 {
+	text-align: center;
+}
+.open_h1 {
+	text-align: center;
+}
+.alert_wrapper {
+	width: 50%;
+	margin: 0 auto;
+}
+.alert_h1 {
+	text-align: center;
+}
+.link_h1 {
+	text-align: center;
+}
+.Additional_h1 {
+	text-align: center;
+}
+.icon_h1 {
+	text-align: center;
+}
+.form_wrapper {
+	width: 50%;
+	margin: 0 auto;
+}
+#form h1 {
+	text-align: center;
+}
+#form p {
+	text-align: center;
+}
